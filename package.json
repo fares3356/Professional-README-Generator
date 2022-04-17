@@ -1,0 +1,14 @@
+{
+  "name": "02-inquirer",
+  "version": "1.0.0",
+  "description": "This application uses inquirer to ask an user some questions and print responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fares Akhtar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
