@@ -1,7 +1,7 @@
 # professional-README-generator
 
   ## Licensing:
-  [license](https://img.shields.io/badge/license--blue)](https://shields.io)
+ [license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
   ## Table of Contents 
   - [Description](#description)
@@ -12,7 +12,7 @@
   - [Additional Info](#additional-info)
 
 ## Video Demonstation
-  [Video](./demo.demo.mp4)
+  [Video](https://youtu.be/FJxuYSiro2U)
 
    ## Description:
   The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files that use a consistant format. This took awhile for me to find all the missing pieces to get something working, it's weird yet awesome how something so seemingly simple took many hours of testing. Please enjoy the generator!
